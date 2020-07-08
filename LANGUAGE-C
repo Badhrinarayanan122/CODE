@@ -1,0 +1,10 @@
+#include<stdio.h>
+int mani(0
+{
+    int a,b;
+    printf("\n Enter 1st Integer\n");
+    scanf("%d\n",&a);
+    printf("\n Enter 2st Integer\n");
+    scanf("%d\n",&b);
+    prinf("\n Results is :%d\n",a+b);
+}
